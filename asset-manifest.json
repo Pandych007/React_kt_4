@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_kt_4/static/css/main.150b5677.css",
+    "main.js": "/React_kt_4/static/js/main.0a96f458.js",
+    "index.html": "/React_kt_4/index.html",
+    "main.150b5677.css.map": "/React_kt_4/static/css/main.150b5677.css.map",
+    "main.0a96f458.js.map": "/React_kt_4/static/js/main.0a96f458.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.150b5677.css",
+    "static/js/main.0a96f458.js"
+  ]
+}
